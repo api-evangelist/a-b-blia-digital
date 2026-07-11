@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.abibliadigital.com.br/en
 common:
+  - type: DomainSecurity
+    url: security/a-b-blia-digital-domain-security.yml
   - type: Website
     url: https://www.abibliadigital.com.br/en
   - type: PublicAPIsListing
