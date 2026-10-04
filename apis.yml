@@ -39,7 +39,6 @@ apis:
   - name: A Bíblia Digital
     description: "Do not worry about managing the multiple versions of the Bible"
     humanURL: https://www.abibliadigital.com.br/en
-    baseURL: https://www.abibliadigital.com.br/en
     tags:
       - Books
     properties:
